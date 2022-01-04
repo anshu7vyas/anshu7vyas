@@ -1,10 +1,10 @@
-<h2 align="center">👋 Hello there!</h2>
+<h2 align="center">👋 Hello there! I am Anshul</h2>
 
-My name is Anshul, I'm a Sr. Software Engineer at [Turo](https://turo.com). I've been working on Android since 2015 and I really enjoy making beautiful Android Apps.
+I'm a Sr. Software Engineer at [Turo](https://turo.com). I've been working on Android since 2015 and I really enjoy making beautiful Android Apps.
 
 - 🔭 I’m currently working on the Turo Android App
 [<img src="https://emojis.slackmojis.com/emojis/images/1536464204/4619/google-play.png" alt="Google Play Icon" width=16 height=16/>](https://play.google.com/store/apps/details?id=com.relayrides.android.relayrides)
-- 🌱 I’m currently learning [Jetpack Compose](https://developer.android.com/jetpack/compose)
+- 🌱 I’m learning [Jetpack Compose](https://developer.android.com/jetpack/compose).
 - 😄 Pronouns: He / Him
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anshu7vyas&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide=contribs,issues&title_color=32DE84&icon_color=32DE84&line_height=30" alt="anshu7vyas" /></p>
