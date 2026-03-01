@@ -2,7 +2,7 @@
 
 Staff Software Engineer at [Turo](https://turo.com) | Android & Kotlin
 
-I've been building Android applications since 2015. At Turo, I work on the Android app that powers the world's largest car-sharing marketplace. I care about developer experience, clean architecture, and making complex topics accessible through writing.
+I've been building Android applications since 2015. At Turo, I work on the Android app that powers the world's largest car-sharing marketplace. I care about developer experience, AI-augmented workflows, clean architecture, and making complex topics accessible through writing.
 
 ## Writing
 
@@ -19,4 +19,6 @@ I've been building Android applications since 2015. At Turo, I work on the Andro
 
 ## Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu7vyas)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/anshu7vyas)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@anshu7vyas)
