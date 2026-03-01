@@ -1,15 +1,15 @@
-# Hi, I'm Anshul
+# Hi, I'm Anshul 👋
 
-Staff Software Engineer at [Turo](https://turo.com) | Android & Kotlin
+### Staff Software Engineer at [Turo](https://turo.com) | Android & Kotlin
 
 I've been building Android applications since 2015. At Turo, I work on the Android app that powers the world's largest car-sharing marketplace. I care about developer experience, AI-augmented workflows, clean architecture, and making complex topics accessible through writing.
 
-## Writing
+## ✍️ Writing 
 
 - [in, out, reified: A Practical Guide to Kotlin Generics](https://proandroiddev.com/in-out-reified-a-practical-guide-to-kotlin-generics-2beb6b9eb67a) — ProAndroidDev, 2026
 - [From Chaos to Calm: Revamping Mobile Releases at Turo](https://medium.com/turo-engineering/from-chaos-to-calm-revamping-mobile-releases-at-turo-99e8e447c1cf) — Turo Engineering, 2025
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
@@ -17,7 +17,7 @@ I've been building Android applications since 2015. At Turo, I work on the Andro
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## Connect
+## 📞 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu7vyas)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/anshu7vyas)
